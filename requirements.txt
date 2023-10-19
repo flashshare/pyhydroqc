@@ -5,4 +5,4 @@ scipy
 pmdarima
 tensorflow
 statsmodels
-sklearn
+scikit-learn
